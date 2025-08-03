@@ -1,4 +1,3 @@
-# jordankb.github.io
 <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -78,10 +77,7 @@
     <section id="about">
       <h2>About Me</h2>
       <p>
-        I'm a UX Lead and product designer with a strong foundation in user experience, product strategy,
-        and systems thinking. With hands-on experience owning end-to-end design for complex data workflows,
-        I blend minimalism and functionality to build scalable, elegant products in fintech. I'm currently
-        leading UX initiatives and cross-functional discovery for data processing at Archway Group.
+        With experience in enterprise SaaS, I use my data analytics and UX design skills to partner with stakeholders and deliver optimal product solutions for complex accounting needs. With empathy and transparency at the root of my values, I am a self-starter who looks for ways to continuously improve - and have fun!
       </p>
     </section><section id="projects">
   <h2>Featured Case Studies</h2>
@@ -107,5 +103,5 @@
 
 <section id="contact">
   <h2>Contact</h2>
-  <p>Email:
+  <p>Email: kbrookejordan@gmail.com
 
