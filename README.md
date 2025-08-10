@@ -103,6 +103,8 @@ p {
     <a href="#contact">Contact</a>
   </div>
 </div>
+
+
 <div class="container">
     <section id="about">
       <h2>About Me</h2>
