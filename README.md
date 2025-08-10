@@ -37,15 +37,15 @@ p {
   color: black;
 }
     
-  
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #333;
-  position: sticky;
+  position: fixed;
   top: 0;
+  width: 100%;
 }
 
 li {
@@ -60,8 +60,12 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+li a:hover:not(.active) {
   background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
 }
 
 </style>
@@ -69,9 +73,9 @@ li a:hover {
 
   
 <body>
-  <header>
+<div>
     <p>Strategic Product Designer</p>
-</header>
+</div>
   
 <ul>
   <li><a class="active" href="#about">About</a></li>
