@@ -73,14 +73,15 @@ li a:hover {
 <body>
   <header>
     <p>Strategic Product Designer</p>
-
+</header>
+  
 <ul>
   <li><a class="active" href="#about">About</a></li>
   <li><a<a href="#projects">Case Studies</a></li>
   <li><a href="#contact">Contact</a>    
 </ul>
 
-</header>
+
 
 
 <div class="container">
