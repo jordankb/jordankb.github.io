@@ -36,7 +36,7 @@ p {
   margin-bottom: 1;
   color: Pink;
 }
-</style
+</style>
 </head>
     
 
