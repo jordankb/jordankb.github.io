@@ -77,10 +77,10 @@ li a:hover {
 <ul>
   <li><a class="active" href="#about">About</a></li>
   <li><a<a href="#projects">Case Studies</a></li>
-  <li><a href="#contact">Contact</a>
-    
+  <li><a href="#contact">Contact</a>    
 </ul>
 
+</header>
 
 
 <div class="container">
