@@ -42,7 +42,6 @@ p {
 
 <body>
   <header>
-    <h1>Kayleigh Jordan</h1>
     <p>Strategic Product Designer</p>
   </header>
   
@@ -96,7 +95,7 @@ p {
 </style>
 
 <div class="dropdown">
-  <button class="dropbtn">Dropdown</button>
+  <button class="dropbtn">Navigate to</button>
   <div class="dropdown-content">
     <a href="#about">About</a>
     <a href="#projects">Case Studies</a>
