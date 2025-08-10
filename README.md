@@ -27,14 +27,14 @@ h2 {
   font-weight: 600;
   margin-top: 2;
   margin-bottom: 0.75;
-  color: Orange;
+  color: black;
 }
 
 /* Paragraph */
 p {
   font-size: 1;
   margin-bottom: 1;
-  color: Pink;
+  color: black;
 }
 </style>
 </head>
