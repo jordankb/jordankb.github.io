@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <style>
@@ -59,9 +59,8 @@ p {
 </ul>
 
 
-<div class ="header">
-    <p>Strategic Product Designer</p>
-</div>
+
+<p>Strategic Product Designer</p>
 
 
 
