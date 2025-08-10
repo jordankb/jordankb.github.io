@@ -73,7 +73,7 @@ li a:hover:not(.active) {
 
   
 <body>
-<div>
+<div class ="header">
     <p>Strategic Product Designer</p>
 </div>
   
