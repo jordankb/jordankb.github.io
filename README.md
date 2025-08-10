@@ -64,11 +64,9 @@ li a:hover {
   background-color: #111;
 }
 
-.active {
-  background-color: #4CAF50;
-}
-</head>
 </style>
+</head>
+
   
 <body>
   <header>
