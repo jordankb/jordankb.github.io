@@ -1,74 +1,49 @@
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Kayleigh Jordan – UX Lead Portfolio</title>
+
+  
   <style>
-    body {
-      font-family: 'Helvetica Neue', sans-serif;
-      margin: 0;
-      padding: 0;
-      line-height: 1.6;
-      background: #fafafa;
-      color: #333;
-    }
-    header {
-      background: #111;
-      color: white;
-      padding: 2rem;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2rem;
-    }
-    header p {
-      font-size: 1.2rem;
-      margin-top: 0.5rem;
-    }
-    nav {
-      background: #eee;
-      padding: 1rem;
-      text-align: center;
-    }
-    nav a {
-      margin: 0 1rem;
-      color: #333;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    .container {
-      max-width: 900px;
-      margin: auto;
-      padding: 2rem;
-    }
-    .project {
-      background: white;
-      margin-bottom: 2rem;
-      padding: 1.5rem;
-      border-radius: 8px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-    }
-    .project h2 {
-      margin-top: 0;
-    }
-    footer {
-      background: #111;
-      color: white;
-      text-align: center;
-      padding: 2rem 1rem;
-      margin-top: 4rem;
-    }
-    img {
-      max-width: 100%;
-      border-radius: 4px;
-    }
-  </style>
+body {
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+/* Heading 1 */
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #222;
+}
+
+/* Heading 2 */
+h2 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: #444;
+}
+
+/* Paragraph */
+p {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  color: #555;
+}
+</style
 </head>
+    
+
 <body>
   <header>
     <h1>Kayleigh Jordan</h1>
-    <p>UX Lead | Product Designer | Minimalist Problem-Solver</p>
+    <p>Strategic Product Designer</p>
   </header>  <nav>
     <a href="#about">About</a>
     <a href="#projects">Case Studies</a>
@@ -77,23 +52,31 @@
     <section id="about">
       <h2>About Me</h2>
       <p>
-        With experience in enterprise SaaS, I use my data analytics and UX design skills to partner with stakeholders and deliver optimal product solutions for complex accounting needs. With empathy and transparency at the root of my values, I am a self-starter who looks for ways to continuously improve - and have fun!
+        With a strong foundation in enterprise SaaS, I specialize in transforming complex accounting workflows into intuitive, data-driven product experiences. By blending analytical rigor with human-centered design, I collaborate closely with stakeholders to uncover insights, align on goals, and deliver scalable solutions that drive business impact. Empathy and transparency guide how I work, and I’m always looking for ways to improve, learn something new, and have a little fun along the way! Outside of work, you'll catch me deep in a suspense novel, headbanging at a metal show, or spending way too much time in my Steam library.
       </p>
     </section><section id="projects">
   <h2>Featured Case Studies</h2>
 
   <div class="project">
-    <h2>📈 Financial Data Mapping Redesign</h2>
-    <p><strong>Role:</strong> UX Lead, Researcher, Product Owner</p>
-    <p><strong>Problem:</strong> Users struggled to map large volumes of financial data due to poor affordances and unclear system behavior.</p>
-    <p><strong>Process:</strong> Led contextual inquiry, redesigned workflows, created prototypes, and aligned dev scope with stakeholder constraints. Influenced technical feasibility and future roadmap.</p>
+    <h2> Simplify complex transaction workflows </h2>
+    <p><strong>Role:</strong> UI/UX Lead, Business Analyst, Product Owner</p>
+    <p><strong>Problem:</strong> Users struggled to navigate and complete the existing form for creating portfolio transfer transactions, highlighting usability challenges in its design.</p>
+    <p><strong>Process:</strong> Led user interviews, redesigned workflows, created prototypes, and aligned dev scope with stakeholder constraints. Influenced technical feasibility and future roadmap.</p>
     <p><strong>Impact:</strong> Reduced mapping time by 40%, eliminated mis-mapping errors, and boosted adoption in client onboarding by 60%.</p>
   </div>
 
   <div class="project">
-    <h2>🧪 Experimentation Dashboard for Strategic Enhancements</h2>
-    <p><strong>Role:</strong> UX Lead & Strategic Consultant</p>
-    <p><strong>Problem:</strong> Internal teams lacked visibility into enhancement performance, leading to repeated requests and redundant work.</p>
+    <h2> Dashboards for cash balances </h2>
+    <p><strong>Role:</strong> UI/UX Lead</p>
+    <p><strong>Problem:</strong> Clients lacked visibility into their cash balances, leading to frustration and missed investment opportunities.</p>
+    <p><strong>Process:</strong> Proposed a self-serve insights tool. Conducted stakeholder interviews, built low-fi prototypes, and facilitated prioritization workshops.</p>
+    <p><strong>Impact:</strong> Accelerated feedback loops and reduced requests for already-released features by 30%.</p>
+  </div>
+
+   <div class="project">
+    <h2> Automated AP Payments </h2>
+    <p><strong>Role:</strong> UI/UX Lead, Business Analyst</p>
+    <p><strong>Problem:</strong> Operational teams paying bills for multiple clients endured a cumbersome, manual process to create and reveiw payment cycles every day.</p>
     <p><strong>Process:</strong> Proposed a self-serve insights tool. Conducted stakeholder interviews, built low-fi prototypes, and facilitated prioritization workshops.</p>
     <p><strong>Impact:</strong> Accelerated feedback loops and reduced requests for already-released features by 30%.</p>
   </div>
@@ -103,5 +86,6 @@
 
 <section id="contact">
   <h2>Contact</h2>
-  <p>Email: kbrookejordan@gmail.com
+  <p>Email: kbrookejordan@gmail.com</p>
+  <p>LinkedIn: www.linkedin.com/in/kayleigh-jordan</p>
 
