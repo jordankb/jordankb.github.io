@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -6,8 +6,9 @@
 
   
   <style>
+font-family: roboto
 body {
-  color: #333;
+  color: SlateBlue;
   line-height: 1.6;
   margin: 0;
   padding: 0;
@@ -87,4 +88,3 @@ p {
   <h2>Contact</h2>
   <p>Email: kbrookejordan@gmail.com</p>
   <p>LinkedIn: www.linkedin.com/in/kayleigh-jordan</p>
-</html>
