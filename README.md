@@ -37,13 +37,12 @@ p {
   color: black;
 }
 </style>
-</head>
     
 
 <body>
   <header>
     <p>Strategic Product Designer</p>
-  </header>
+
   
 ul {
   list-style-type: none;
