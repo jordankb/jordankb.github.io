@@ -45,63 +45,47 @@ p {
     <p>Strategic Product Designer</p>
   </header>
   
-  <style>
-/* Style The Dropdown Button */
-.dropbtn {
-  background-color: #4CAF50;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: sticky;
+  top: 0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
   color: white;
-  padding: 16px;
-  font-size: 16px;
-  border: none;
-  cursor: pointer;
-}
-
-/* The container <div> - needed to position the dropdown content */
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-/* Dropdown Content (Hidden by Default) */
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-
-/* Links inside the dropdown */
-.dropdown-content a {
-  color: black;
-  padding: 12px 16px;
+  text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
-  display: block;
 }
 
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #f1f1f1}
-
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {
-  display: block;
+li a:hover {
+  background-color: #111;
 }
 
-/* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {
-  background-color: #3e8e41;
+.active {
+  background-color: #4CAF50;
 }
 </style>
+</head>
+<body>
 
-<div class="dropdown">
-  <button class="dropbtn">Navigate to</button>
-  <div class="dropdown-content">
-    <a href="#about">About</a>
-    <a href="#projects">Case Studies</a>
-    <a href="#contact">Contact</a>
-  </div>
-</div>
+
+<ul>
+  <li><a class="active" href="#about">About</a></li>
+  <li><a<a href="#projects">Case Studies</a></li>
+  <li><a href="#contact">Contact</a>
+    
+</ul>
+
 
 
 <div class="container">
