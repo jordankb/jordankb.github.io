@@ -15,7 +15,7 @@ body {
 
 /* Heading 1 */
 h1 {
-  font-size: 2.5;
+  font-size: 2.5rem;
   font-weight: 700;
   margin-bottom: 1;
   color: SlateBlue;
@@ -125,3 +125,4 @@ li a:hover:not(.active) {
   <h2>Contact</h2>
   <p>Email: kbrookejordan@gmail.com</p>
   <p>LinkedIn: www.linkedin.com/in/kayleigh-jordan</p>
+</section>
