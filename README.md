@@ -6,9 +6,8 @@
 
   
   <style>
-font-family: roboto
 body {
-  color: SlateBlue;
+  color: Black;
   line-height: 1.6;
   margin: 0;
   padding: 0;
@@ -16,26 +15,26 @@ body {
 
 /* Heading 1 */
 h1 {
-  font-size: 2.5rem;
+  font-size: 2.5;
   font-weight: 700;
-  margin-bottom: 1rem;
-  color: #222;
+  margin-bottom: 1;
+  color: SlateBlue;
 }
 
 /* Heading 2 */
 h2 {
-  font-size: 1.75rem;
+  font-size: 1.75;
   font-weight: 600;
-  margin-top: 2rem;
-  margin-bottom: 0.75rem;
-  color: #444;
+  margin-top: 2;
+  margin-bottom: 0.75;
+  color: Orange;
 }
 
 /* Paragraph */
 p {
-  font-size: 1rem;
-  margin-bottom: 1rem;
-  color: #555;
+  font-size: 1;
+  margin-bottom: 1;
+  color: Pink;
 }
 </style
 </head>
