@@ -83,9 +83,8 @@ p {
 
   <!-- Add more projects here as needed -->
 </section>
-
 <section id="contact">
   <h2>Contact</h2>
   <p>Email: kbrookejordan@gmail.com</p>
   <p>LinkedIn: www.linkedin.com/in/kayleigh-jordan</p>
-
+</html>
