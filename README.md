@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <style>
+<style>
 
 body {
   color: Black;
@@ -36,13 +36,7 @@ p {
   margin-bottom: 1;
   color: black;
 }
-</style>
     
-
-<body>
-  <header>
-    <p>Strategic Product Designer</p>
-
   
 ul {
   list-style-type: none;
@@ -73,10 +67,12 @@ li a:hover {
 .active {
   background-color: #4CAF50;
 }
-</style>
 </head>
+</style>
+  
 <body>
-
+  <header>
+    <p>Strategic Product Designer</p>
 
 <ul>
   <li><a class="active" href="#about">About</a></li>
