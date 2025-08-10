@@ -6,31 +6,28 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
-  background-color: #333;
+  width: 25%;
+  background-color: #f1f1f1;
   position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-li {
-  float: left;
+  height: 100%;
+  overflow: auto;
 }
 
 li a {
   display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
+  color: #000;
+  padding: 8px 16px;
   text-decoration: none;
 }
 
-li a:hover:not(.active) {
-  background-color: #111;
+li a.active {
+  background-color: #04AA6D;
+  color: white;
 }
 
-.active {
-  background-color: #04AA6D;
+li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
 }
 
 
@@ -79,9 +76,9 @@ p {
   <li><a href="#contact">Contact</a></li>
 </ul>
 
+<div style="margin-left:25%;padding:1px 16px;height:1000px;">
 
-
-<p>Strategic Product Designer</p>
+<h1>Strategic Product Designer</h1>
 
 
 
