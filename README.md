@@ -15,7 +15,7 @@ h1 {
   font-size: 2rem;
   font-weight: 700;
   margin-bottom: 1rem;
-  color: #342E60;
+  color: #3D3573;
 }
 
 /* Heading 2 */
@@ -24,7 +24,7 @@ h2 {
   font-weight: 600;
   margin-top: 2rem;
   margin-bottom: 0.75rem;
-  color: #2E4160;
+  color: #354C73;
 }
 
 /* Paragraph */
@@ -41,9 +41,8 @@ p {
 <body>
 
 
-<h1>Strategic Product Designer</h1>
-  <p>Email: kbrookejordan@gmail.com</p>
-  <p>LinkedIn: www.linkedin.com/in/kayleigh-jordan</p>
+<h1>Kayleigh Jordan</h1>
+<p>Strategic Product Designer</p>
 
 
 <div class="container">
