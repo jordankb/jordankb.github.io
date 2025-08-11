@@ -53,7 +53,7 @@ p {
         With a strong foundation in enterprise SaaS, I specialize in transforming complex accounting workflows into intuitive, data-driven product experiences. By blending analytical rigor with human-centered design, I collaborate closely with stakeholders to uncover insights, align on goals, and deliver scalable solutions that drive business impact. Empathy and transparency guide how I work, and I’m always looking for ways to improve, learn something new, and have a little fun along the way! Outside of work, you'll catch me deep in a suspense novel, headbanging at a metal show, or spending way too much time in my Steam library.
       </p>
     </section><section id="projects">
-  <h2>Featured Case Studies</h2>
+  <h2>Featured Projects</h2>
 
   <div class="project">
     <h2> Simplify complex transaction workflows </h2>
@@ -77,6 +77,24 @@ p {
     <p><strong>Problem:</strong> Operational teams paying bills for multiple clients endured a cumbersome, manual process to create and reveiw payment cycles every day.</p>
     <p><strong>Process:</strong> Proposed a self-serve insights tool. Conducted stakeholder interviews, built low-fi prototypes, and facilitated prioritization workshops.</p>
     <p><strong>Impact:</strong> Accelerated feedback loops and reduced requests for already-released features by 30%.</p>
+  </div>
+
+
+   <div class="project">
+    <h2> Spearheaded component library buildout design system management </h2>
+    <p><strong>Role:</strong> UI/UX Lead </p>
+    <p><strong>Problem:</strong> Losing prospects to competitors due to dated interface and poor user experience.</p>
+    <p><strong>Process:</strong> Advocated for upgrade in design tools for improved communication and feedback on usability.</p>
+    <p><strong>Impact:</strong> Building out a component library enabled designers to create a more consistent UI/UX.</p>
+  </div>
+
+
+<div class="project">
+    <h2> Created an interface for users to customize colors and logos </h2>
+    <p><strong>Role:</strong> UI/UX Lead, Business Analyst, Product Owner </p>
+    <p><strong>Problem:</strong> Changes to colors and logos were slow turnaround because they required developer intervention and a feature release.</p>
+    <p><strong>Process:</strong> Advocated for upgrade in design tools for improved communication and feedback on usability.</p>
+    <p><strong>Impact:</strong> Building out a component library enabled designers to create a more consistent UI/UX.</p>
   </div>
 
   <!-- Add more projects here as needed -->
