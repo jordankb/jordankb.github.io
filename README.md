@@ -12,19 +12,19 @@ body {
 
 /* Heading 1 */
 h1 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: 700;
   margin-bottom: 1rem;
-  color: #80849D;
+  color: #342E60;
 }
 
 /* Heading 2 */
 h2 {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   font-weight: 600;
   margin-top: 2rem;
   margin-bottom: 0.75rem;
-  color: #80939D;
+  color: #2E4160;
 }
 
 /* Paragraph */
