@@ -2,36 +2,6 @@
 <html lang="en">
 <head>
 <style>
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 25%;
-  background-color: #f1f1f1;
-  position: fixed;
-  height: 100%;
-  overflow: auto;
-}
-
-li a {
-  display: block;
-  color: #000;
-  padding: 8px 16px;
-  text-decoration: none;
-}
-
-li a.active {
-  background-color: #04AA6D;
-  color: white;
-}
-
-li a:hover:not(.active) {
-  background-color: #555;
-  color: white;
-}
-
-
-
 
 body {
   color: Black;
@@ -70,16 +40,10 @@ p {
 
 <body>
 
-<ul>
-  <li><a href="#about">About</a></li>
-  <li><a href="#projects">Case Studies</a></li>
-  <li><a href="#contact">Contact</a></li>
-</ul>
-
-<div style="margin-left:25%;padding:1px 16px;height:1000px;">
 
 <h1>Strategic Product Designer</h1>
-
+  <p>Email: kbrookejordan@gmail.com</p>
+  <p>LinkedIn: www.linkedin.com/in/kayleigh-jordan</p>
 
 
 <div class="container">
@@ -116,11 +80,5 @@ p {
   </div>
 
   <!-- Add more projects here as needed -->
-</section>
-<section id="contact">
-  <h2>Contact</h2>
-  <p>Email: kbrookejordan@gmail.com</p>
-  <p>LinkedIn: www.linkedin.com/in/kayleigh-jordan</p>
-</section>
 </body>
 </html>  
