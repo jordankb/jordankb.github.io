@@ -55,7 +55,8 @@ p {
     <section id="about">
       <h2>About Me</h2>
       <p>
-        With a strong foundation in enterprise SaaS, I specialize in transforming complex accounting workflows into intuitive, data-driven product experiences. By blending analytical rigor with human-centered design, I collaborate closely with stakeholders to uncover insights, align on goals, and deliver scalable solutions that drive business impact. Empathy and transparency guide how I work, and I’m always looking for ways to improve, learn something new, and have a little fun along the way! Outside of work, you'll catch me deep in a suspense novel, headbanging at a metal show, or spending way too much time in my Steam library.
+        With a strong foundation in enterprise SaaS, I specialize in transforming complex accounting workflows into intuitive, data-driven product experiences. By blending analytical rigor with human-centered design, I collaborate closely with stakeholders to uncover insights, align on goals, and deliver scalable solutions that drive business impact. Empathy and transparency guide how I work, and I’m always looking for ways to improve, learn something new, and have a little fun along the way! 
+        Outside of work, you'll catch me deep in a suspense novel, headbanging at a metal show, or spending way too much time in my Steam library.
       </p>
     </section><section id="projects">
   <h2>Featured Projects</h2>
