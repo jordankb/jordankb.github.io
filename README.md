@@ -5,7 +5,7 @@
 
 body {
   color: Black;
-  line-height: 1.6;
+  line-height: 1.6rem;
   margin: 0;
   padding: 0;
 }
@@ -14,17 +14,17 @@ body {
 h1 {
   font-size: 2.5rem;
   font-weight: 700;
-  margin-bottom: 1;
-  color: SlateBlue;
+  margin-bottom: 1rem;
+  color: #80849D;
 }
 
 /* Heading 2 */
 h2 {
-  font-size: 1.75;
+  font-size: 1.75rem;
   font-weight: 600;
-  margin-top: 2;
-  margin-bottom: 0.75;
-  color: black;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: #80939D;
 }
 
 /* Paragraph */
