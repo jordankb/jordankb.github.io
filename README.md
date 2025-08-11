@@ -27,6 +27,12 @@ h2 {
   color: #354C73;
 }
 
+h3 {
+font-size: 1rem;
+font-weight: 400
+color: #356B73;
+}
+
 /* Paragraph */
 p {
   font-size: 1;
@@ -55,7 +61,7 @@ p {
   <h2>Featured Projects</h2>
 
   <div class="project">
-    <h2> Simplify complex transaction workflows </h2>
+    <h3> Simplify complex transaction workflows </h3>
     <p><strong>Role:</strong> UI/UX Lead, Business Analyst, Product Owner</p>
     <p><strong>Problem:</strong> Users struggled to navigate and complete the existing form for creating portfolio transfer transactions, highlighting usability challenges in its design.</p>
     <p><strong>Process:</strong> Led user interviews, redesigned workflows, created prototypes, and aligned dev scope with stakeholder constraints. Influenced technical feasibility and future roadmap.</p>
@@ -63,7 +69,7 @@ p {
   </div>
 
   <div class="project">
-    <h2> Dashboards for cash balances </h2>
+    <h3> Dashboards for cash balances </h3>
     <p><strong>Role:</strong> UI/UX Lead</p>
     <p><strong>Problem:</strong> Clients lacked visibility into their cash balances, leading to frustration and missed investment opportunities.</p>
     <p><strong>Process:</strong> Proposed a self-serve insights tool. Conducted stakeholder interviews, built low-fi prototypes, and facilitated prioritization workshops.</p>
@@ -71,7 +77,7 @@ p {
   </div>
 
    <div class="project">
-    <h2> Automated AP Payments </h2>
+    <h3> Automated AP Payments </h3>
     <p><strong>Role:</strong> UI/UX Lead, Business Analyst</p>
     <p><strong>Problem:</strong> Operational teams paying bills for multiple clients endured a cumbersome, manual process to create and reveiw payment cycles every day.</p>
     <p><strong>Process:</strong> Proposed a self-serve insights tool. Conducted stakeholder interviews, built low-fi prototypes, and facilitated prioritization workshops.</p>
@@ -80,7 +86,7 @@ p {
 
 
    <div class="project">
-    <h2> Spearheaded component library buildout design system management </h2>
+    <h3> Spearheaded component library buildout design system management </h3>
     <p><strong>Role:</strong> UI/UX Lead </p>
     <p><strong>Problem:</strong> Losing prospects to competitors due to dated interface and poor user experience.</p>
     <p><strong>Process:</strong> Advocated for upgrade in design tools for improved communication and feedback on usability.</p>
@@ -89,7 +95,7 @@ p {
 
 
 <div class="project">
-    <h2> Created an interface for users to customize colors and logos </h2>
+    <h3> Created an interface for users to customize colors and logos </h3>
     <p><strong>Role:</strong> UI/UX Lead, Business Analyst, Product Owner </p>
     <p><strong>Problem:</strong> Changes to colors and logos were slow turnaround because they required developer intervention and a feature release.</p>
     <p><strong>Process:</strong> Advocated for upgrade in design tools for improved communication and feedback on usability.</p>
